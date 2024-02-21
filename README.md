@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sam Lee.
+- 👋 Hi, my name is Sam Lee.
 - 👀 I’m interested to learn more about machine learning algorithms to better understand how systems behave and when they might fail.
 - 🌱 I’m currently developing my skills in python and SQL, and I hope to learn a wide variety of programming languages.
 - 💞️ I’m looking to collaborate on any project with anyone in any given opportunity!
